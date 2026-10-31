@@ -1,0 +1,1920 @@
+{
+ "version": 2,
+ "source": "NCERT textbooks, Reprint 2026-27 (rationalised Class 10-12, Curiosity Class 8, Exploration Class 9)",
+ "neetExam": {
+  "name": "NEET (UG) 2027",
+  "date": "2027-05-02",
+  "official": false,
+  "note": "NTA hasn't announced the NEET (UG) 2027 date yet. NEET is usually held on the first Sunday of May.",
+  "source": "https://neet.nta.nic.in/",
+  "checked": "2026-10-30",
+  "previous": [
+   "2026-05-03",
+   "2025-05-04",
+   "2024-05-05"
+  ]
+ },
+ "excludedPdfs": [
+  "hecu101",
+  "iesc101"
+ ],
+ "classes": [
+  {
+   "level": 8,
+   "label": "Class 8",
+   "stage": "Foundation",
+   "subjects": [
+    {
+     "name": "Physics",
+     "chapters": [
+      {
+       "id": "8_phy_1",
+       "number": 1,
+       "name": "Electricity: Magnetic and Heating Effects",
+       "topics": [],
+       "textRef": "8_science/4",
+       "ncertPdf": "hecu104",
+       "book": "Curiosity (Class 8 Science)",
+       "bookChapter": 4
+      },
+      {
+       "id": "8_phy_2",
+       "number": 2,
+       "name": "Exploring Forces",
+       "topics": [
+        "What Is a Force?",
+        "What Are the Different Types of Forces?"
+       ],
+       "textRef": "8_science/5",
+       "ncertPdf": "hecu105",
+       "book": "Curiosity (Class 8 Science)",
+       "bookChapter": 5
+      },
+      {
+       "id": "8_phy_3",
+       "number": 3,
+       "name": "Pressure, Winds, Storms, and Cyclones",
+       "topics": [
+        "Pressure Exerted by Air"
+       ],
+       "textRef": "8_science/6",
+       "ncertPdf": "hecu106",
+       "book": "Curiosity (Class 8 Science)",
+       "bookChapter": 6
+      },
+      {
+       "id": "8_phy_4",
+       "number": 4,
+       "name": "Light: Mirrors and Lenses",
+       "topics": [
+        "What Are Spherical Mirrors?",
+        "What Are the Laws of Reflection?"
+       ],
+       "textRef": "8_science/10",
+       "ncertPdf": "hecu110",
+       "book": "Curiosity (Class 8 Science)",
+       "bookChapter": 10
+      },
+      {
+       "id": "8_phy_5",
+       "number": 5,
+       "name": "Keeping Time with the Skies",
+       "topics": [],
+       "textRef": "8_science/11",
+       "ncertPdf": "hecu111",
+       "book": "Curiosity (Class 8 Science)",
+       "bookChapter": 11
+      }
+     ]
+    },
+    {
+     "name": "Chemistry",
+     "chapters": [
+      {
+       "id": "8_che_1",
+       "number": 1,
+       "name": "Particulate Nature of Matter",
+       "topics": [
+        "What Is Matter Composed of?",
+        "What Decides Different States of Matter?"
+       ],
+       "textRef": "8_science/7",
+       "ncertPdf": "hecu107",
+       "book": "Curiosity (Class 8 Science)",
+       "bookChapter": 7
+      },
+      {
+       "id": "8_che_2",
+       "number": 2,
+       "name": "Nature of Matter: Elements, Compounds, and Mixtures",
+       "topics": [
+        "What Are Mixtures?",
+        "What Are Pure Substances?",
+        "What Are the Types of Pure Substances?"
+       ],
+       "textRef": "8_science/8",
+       "ncertPdf": "hecu108",
+       "book": "Curiosity (Class 8 Science)",
+       "bookChapter": 8
+      },
+      {
+       "id": "8_che_3",
+       "number": 3,
+       "name": "The Amazing World of Solutes, Solvents, and Solutions",
+       "topics": [
+        "Solubility of Gases",
+        "Why Do Objects Float or Sink in Water?",
+        "What Is Density?"
+       ],
+       "textRef": "8_science/9",
+       "ncertPdf": "hecu109",
+       "book": "Curiosity (Class 8 Science)",
+       "bookChapter": 9
+      }
+     ]
+    },
+    {
+     "name": "Biology",
+     "chapters": [
+      {
+       "id": "8_bio_1",
+       "number": 1,
+       "name": "The Invisible Living World: Beyond Our Naked Eye",
+       "topics": [
+        "What Is a Cell?"
+       ],
+       "textRef": "8_science/2",
+       "ncertPdf": "hecu102",
+       "book": "Curiosity (Class 8 Science)",
+       "bookChapter": 2
+      },
+      {
+       "id": "8_bio_2",
+       "number": 2,
+       "name": "Health: The Ultimate Treasure",
+       "topics": [
+        "Health: Is It More Than Not Falling Sick?",
+        "How Can We Stay Healthy?",
+        "How Do We Know That We Are Unwell?",
+        "Diseases: What Are the Causes and Types?"
+       ],
+       "textRef": "8_science/3",
+       "ncertPdf": "hecu103",
+       "book": "Curiosity (Class 8 Science)",
+       "bookChapter": 3
+      },
+      {
+       "id": "8_bio_3",
+       "number": 3,
+       "name": "How Nature Works in Harmony",
+       "topics": [
+        "Who All Live Together in Nature?"
+       ],
+       "textRef": "8_science/12",
+       "ncertPdf": "hecu112",
+       "book": "Curiosity (Class 8 Science)",
+       "bookChapter": 12
+      },
+      {
+       "id": "8_bio_4",
+       "number": 4,
+       "name": "Our Home: Earth, a Unique Life Sustaining Planet",
+       "topics": [
+        "Why Is Earth a Unique Planet?"
+       ],
+       "textRef": "8_science/13",
+       "ncertPdf": "hecu113",
+       "book": "Curiosity (Class 8 Science)",
+       "bookChapter": 13
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "level": 9,
+   "label": "Class 9",
+   "stage": "Foundation",
+   "subjects": [
+    {
+     "name": "Physics",
+     "chapters": [
+      {
+       "id": "9_phy_1",
+       "number": 1,
+       "name": "Describing Motion Around Us",
+       "topics": [
+        "Motion in a Straight Line"
+       ],
+       "textRef": "9_science/4",
+       "ncertPdf": "iesc104",
+       "book": "Exploration (Class 9 Science)",
+       "bookChapter": 4
+      },
+      {
+       "id": "9_phy_2",
+       "number": 2,
+       "name": "How Forces Affect Motion",
+       "topics": [
+        "The Concept of Force",
+        "Balanced and Unbalanced Forces",
+        "The Force of Friction: Often Overlooked but Always Present"
+       ],
+       "textRef": "9_science/6",
+       "ncertPdf": "iesc106",
+       "book": "Exploration (Class 9 Science)",
+       "bookChapter": 6
+      },
+      {
+       "id": "9_phy_3",
+       "number": 3,
+       "name": "Work, Energy, and Simple Machines",
+       "topics": [
+        "Work Done by a Constant Force",
+        "The Work-Energy Theorem"
+       ],
+       "textRef": "9_science/7",
+       "ncertPdf": "iesc107",
+       "book": "Exploration (Class 9 Science)",
+       "bookChapter": 7
+      },
+      {
+       "id": "9_phy_4",
+       "number": 4,
+       "name": "Sound Waves: Characteristics and Applications",
+       "topics": [
+        "Production of Sound",
+        "Propagation of Sound",
+        "Sound Waves"
+       ],
+       "textRef": "9_science/10",
+       "ncertPdf": "iesc110",
+       "book": "Exploration (Class 9 Science)",
+       "bookChapter": 10
+      }
+     ]
+    },
+    {
+     "name": "Chemistry",
+     "chapters": [
+      {
+       "id": "9_che_1",
+       "number": 1,
+       "name": "Exploring Mixtures and their Separation",
+       "topics": [
+        "Solutions"
+       ],
+       "textRef": "9_science/5",
+       "ncertPdf": "iesc105",
+       "book": "Exploration (Class 9 Science)",
+       "bookChapter": 5
+      },
+      {
+       "id": "9_che_2",
+       "number": 2,
+       "name": "Journey Inside the Atom",
+       "topics": [
+        "Rediscovering the Roots of Atomic Theory",
+        "A Short Historical Journey Through Atomic Models"
+       ],
+       "textRef": "9_science/8",
+       "ncertPdf": "iesc108",
+       "book": "Exploration (Class 9 Science)",
+       "bookChapter": 8
+      },
+      {
+       "id": "9_che_3",
+       "number": 3,
+       "name": "Atomic Foundations of Matter",
+       "topics": [
+        "Law of Conservation of Mass",
+        "Law of Constant Proportions"
+       ],
+       "textRef": "9_science/9",
+       "ncertPdf": "iesc109",
+       "book": "Exploration (Class 9 Science)",
+       "bookChapter": 9
+      }
+     ]
+    },
+    {
+     "name": "Biology",
+     "chapters": [
+      {
+       "id": "9_bio_1",
+       "number": 1,
+       "name": "Cell: The Building Block of Life",
+       "topics": [
+        "How to Study Cells?",
+        "Structure of a Cell"
+       ],
+       "textRef": "9_science/2",
+       "ncertPdf": "iesc102",
+       "book": "Exploration (Class 9 Science)",
+       "bookChapter": 2
+      },
+      {
+       "id": "9_bio_2",
+       "number": 2,
+       "name": "Tissues in Action",
+       "topics": [
+        "Why are Plant and Animal Tissues Different?",
+        "Tissues for Growth in Plants"
+       ],
+       "textRef": "9_science/3",
+       "ncertPdf": "iesc103",
+       "book": "Exploration (Class 9 Science)",
+       "bookChapter": 3
+      },
+      {
+       "id": "9_bio_3",
+       "number": 3,
+       "name": "Reproduction: How Life Continues",
+       "topics": [
+        "Asexual Reproduction"
+       ],
+       "textRef": "9_science/11",
+       "ncertPdf": "iesc111",
+       "book": "Exploration (Class 9 Science)",
+       "bookChapter": 11
+      },
+      {
+       "id": "9_bio_4",
+       "number": 4,
+       "name": "Patterns in Life: Diversity and Classification",
+       "topics": [
+        "India as a Biodiversity Hotspot",
+        "The Need for Classification"
+       ],
+       "textRef": "9_science/12",
+       "ncertPdf": "iesc112",
+       "book": "Exploration (Class 9 Science)",
+       "bookChapter": 12
+      },
+      {
+       "id": "9_bio_5",
+       "number": 5,
+       "name": "Earth as a System: Energy, Matter, and Life",
+       "topics": [
+        "Uneven Heating of the Earth"
+       ],
+       "textRef": "9_science/13",
+       "ncertPdf": "iesc113",
+       "book": "Exploration (Class 9 Science)",
+       "bookChapter": 13
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "level": 10,
+   "label": "Class 10",
+   "stage": "Foundation",
+   "subjects": [
+    {
+     "name": "Physics",
+     "chapters": [
+      {
+       "id": "10_phy_1",
+       "number": 1,
+       "name": "Light – Reflection and Refraction",
+       "topics": [
+        "Laws of reflection",
+        "Spherical mirrors",
+        "Mirror formula",
+        "Refraction laws",
+        "Lens formula",
+        "Power of lens"
+       ],
+       "textRef": "10_science/9",
+       "ncertPdf": "jesc109",
+       "book": "Science (Class 10)",
+       "bookChapter": 9
+      },
+      {
+       "id": "10_phy_2",
+       "number": 2,
+       "name": "The Human Eye and the Colourful World",
+       "topics": [
+        "The Human Eye",
+        "Defects of Vision and Their Correction",
+        "Refraction of Light Through a Prism"
+       ],
+       "textRef": "10_science/10",
+       "ncertPdf": "jesc110",
+       "book": "Science (Class 10)",
+       "bookChapter": 10
+      },
+      {
+       "id": "10_phy_3",
+       "number": 3,
+       "name": "Electricity",
+       "topics": [
+        "Electric current and circuit",
+        "Ohm's law",
+        "Resistance",
+        "Series and parallel circuits",
+        "Heating effect",
+        "Electric power"
+       ],
+       "textRef": "10_science/11",
+       "ncertPdf": "jesc111",
+       "book": "Science (Class 10)",
+       "bookChapter": 11
+      },
+      {
+       "id": "10_phy_4",
+       "number": 4,
+       "name": "Magnetic Effects of Electric Current",
+       "topics": [
+        "Magnetic field",
+        "Oersted's experiment",
+        "Fleming's rules",
+        "Electric motor",
+        "Electromagnetic induction",
+        "Generator"
+       ],
+       "textRef": "10_science/12",
+       "ncertPdf": "jesc112",
+       "book": "Science (Class 10)",
+       "bookChapter": 12
+      }
+     ]
+    },
+    {
+     "name": "Chemistry",
+     "chapters": [
+      {
+       "id": "10_che_1",
+       "number": 1,
+       "name": "Chemical Reactions and Equations",
+       "topics": [
+        "Chemical equations",
+        "Types of reactions",
+        "Combination decomposition",
+        "Displacement",
+        "Redox reactions"
+       ],
+       "textRef": "10_science/1",
+       "ncertPdf": "jesc101",
+       "book": "Science (Class 10)",
+       "bookChapter": 1
+      },
+      {
+       "id": "10_che_2",
+       "number": 2,
+       "name": "Acids, Bases and Salts",
+       "topics": [
+        "Properties of acids and bases",
+        "pH scale",
+        "Neutralisation",
+        "Salts and their types",
+        "Water of crystallisation"
+       ],
+       "textRef": "10_science/2",
+       "ncertPdf": "jesc102",
+       "book": "Science (Class 10)",
+       "bookChapter": 2
+      },
+      {
+       "id": "10_che_3",
+       "number": 3,
+       "name": "Metals and Non-metals",
+       "topics": [
+        "Physical and chemical properties",
+        "Reactivity series",
+        "Ionic bond formation",
+        "Corrosion",
+        "Alloys"
+       ],
+       "textRef": "10_science/3",
+       "ncertPdf": "jesc103",
+       "book": "Science (Class 10)",
+       "bookChapter": 3
+      },
+      {
+       "id": "10_che_4",
+       "number": 4,
+       "name": "Carbon and its Compounds",
+       "topics": [
+        "Covalent bonding in carbon",
+        "Versatile nature of carbon",
+        "Homologous series",
+        "Functional groups",
+        "Soaps and detergents"
+       ],
+       "textRef": "10_science/4",
+       "ncertPdf": "jesc104",
+       "book": "Science (Class 10)",
+       "bookChapter": 4
+      }
+     ]
+    },
+    {
+     "name": "Biology",
+     "chapters": [
+      {
+       "id": "10_bio_1",
+       "number": 1,
+       "name": "Life Processes",
+       "topics": [
+        "Nutrition in plants and animals",
+        "Respiration",
+        "Transportation",
+        "Excretion",
+        "Photosynthesis"
+       ],
+       "textRef": "10_science/5",
+       "ncertPdf": "jesc105",
+       "book": "Science (Class 10)",
+       "bookChapter": 5
+      },
+      {
+       "id": "10_bio_2",
+       "number": 2,
+       "name": "Control and Coordination",
+       "topics": [
+        "Nervous system",
+        "Reflex action",
+        "Human brain",
+        "Hormones in plants",
+        "Endocrine system"
+       ],
+       "textRef": "10_science/6",
+       "ncertPdf": "jesc106",
+       "book": "Science (Class 10)",
+       "bookChapter": 6
+      },
+      {
+       "id": "10_bio_3",
+       "number": 3,
+       "name": "How do Organisms Reproduce?",
+       "topics": [
+        "Asexual reproduction",
+        "Sexual reproduction in plants",
+        "Human reproductive system",
+        "Reproductive health"
+       ],
+       "textRef": "10_science/7",
+       "ncertPdf": "jesc107",
+       "book": "Science (Class 10)",
+       "bookChapter": 7
+      },
+      {
+       "id": "10_bio_4",
+       "number": 4,
+       "name": "Heredity",
+       "topics": [
+        "Accumulation of variation during reproduction",
+        "Mendel's contributions",
+        "Dominant and recessive traits",
+        "Monohybrid and dihybrid crosses",
+        "How traits are expressed",
+        "Sex determination"
+       ],
+       "textRef": "10_science/8",
+       "ncertPdf": "jesc108",
+       "book": "Science (Class 10)",
+       "bookChapter": 8
+      },
+      {
+       "id": "10_bio_5",
+       "number": 5,
+       "name": "Our Environment",
+       "topics": [
+        "Ecosystem",
+        "Food chains and webs",
+        "Ozone layer",
+        "Waste management",
+        "Biodegradable vs non-biodegradable"
+       ],
+       "textRef": "10_science/13",
+       "ncertPdf": "jesc113",
+       "book": "Science (Class 10)",
+       "bookChapter": 13
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "level": 11,
+   "label": "Class 11",
+   "stage": "NEET core",
+   "subjects": [
+    {
+     "name": "Physics",
+     "chapters": [
+      {
+       "id": "11_phy_1",
+       "number": 1,
+       "name": "Units and Measurement",
+       "topics": [
+        "SI units",
+        "Dimensional analysis",
+        "Significant figures",
+        "Error analysis",
+        "Least count"
+       ],
+       "textRef": "11_physics/1",
+       "ncertPdf": "keph101",
+       "book": "Physics (Class 11)",
+       "bookChapter": 1
+      },
+      {
+       "id": "11_phy_2",
+       "number": 2,
+       "name": "Motion in a Straight Line",
+       "topics": [
+        "Distance displacement",
+        "Speed velocity acceleration",
+        "Kinematic equations",
+        "Relative velocity",
+        "Free fall"
+       ],
+       "textRef": "11_physics/2",
+       "ncertPdf": "keph102",
+       "book": "Physics (Class 11)",
+       "bookChapter": 2
+      },
+      {
+       "id": "11_phy_3",
+       "number": 3,
+       "name": "Motion in a Plane",
+       "topics": [
+        "Vectors and scalars",
+        "Projectile motion",
+        "Circular motion",
+        "Relative velocity in 2D"
+       ],
+       "textRef": "11_physics/3",
+       "ncertPdf": "keph103",
+       "book": "Physics (Class 11)",
+       "bookChapter": 3
+      },
+      {
+       "id": "11_phy_4",
+       "number": 4,
+       "name": "Laws of Motion",
+       "topics": [
+        "Newton's three laws",
+        "Free body diagrams",
+        "Friction types",
+        "Circular motion dynamics",
+        "Conservation of momentum"
+       ],
+       "textRef": "11_physics/4",
+       "ncertPdf": "keph104",
+       "book": "Physics (Class 11)",
+       "bookChapter": 4
+      },
+      {
+       "id": "11_phy_5",
+       "number": 5,
+       "name": "Work, Energy and Power",
+       "topics": [
+        "Work done by constant and variable force",
+        "Kinetic and potential energy",
+        "Work-energy theorem",
+        "Conservation of energy",
+        "Collisions elastic inelastic"
+       ],
+       "textRef": "11_physics/5",
+       "ncertPdf": "keph105",
+       "book": "Physics (Class 11)",
+       "bookChapter": 5
+      },
+      {
+       "id": "11_phy_6",
+       "number": 6,
+       "name": "System of Particles and Rotational Motion",
+       "topics": [
+        "Centre of mass",
+        "Torque and angular momentum",
+        "Moment of inertia",
+        "Theorems of MI",
+        "Rolling motion"
+       ],
+       "textRef": "11_physics/6",
+       "ncertPdf": "keph106",
+       "book": "Physics (Class 11)",
+       "bookChapter": 6
+      },
+      {
+       "id": "11_phy_7",
+       "number": 7,
+       "name": "Gravitation",
+       "topics": [
+        "Universal law of gravitation",
+        "Gravitational field and potential",
+        "Escape velocity",
+        "Orbital velocity",
+        "Kepler's laws",
+        "Satellites"
+       ],
+       "textRef": "11_physics/7",
+       "ncertPdf": "keph107",
+       "book": "Physics (Class 11)",
+       "bookChapter": 7
+      },
+      {
+       "id": "11_phy_8",
+       "number": 8,
+       "name": "Mechanical Properties of Solids",
+       "topics": [
+        "Stress and strain",
+        "Hooke's law",
+        "Young's modulus",
+        "Bulk modulus",
+        "Rigidity modulus",
+        "Elastic potential energy"
+       ],
+       "textRef": "11_physics/8",
+       "ncertPdf": "keph201",
+       "book": "Physics (Class 11)",
+       "bookChapter": 8
+      },
+      {
+       "id": "11_phy_9",
+       "number": 9,
+       "name": "Mechanical Properties of Fluids",
+       "topics": [
+        "Pressure in fluids",
+        "Pascal's law",
+        "Archimedes principle",
+        "Bernoulli's theorem",
+        "Viscosity",
+        "Surface tension"
+       ],
+       "textRef": "11_physics/9",
+       "ncertPdf": "keph202",
+       "book": "Physics (Class 11)",
+       "bookChapter": 9
+      },
+      {
+       "id": "11_phy_10",
+       "number": 10,
+       "name": "Thermal Properties of Matter",
+       "topics": [
+        "Temperature and heat",
+        "Thermal expansion",
+        "Specific heat capacity",
+        "Calorimetry",
+        "Heat transfer: conduction convection radiation"
+       ],
+       "textRef": "11_physics/10",
+       "ncertPdf": "keph203",
+       "book": "Physics (Class 11)",
+       "bookChapter": 10
+      },
+      {
+       "id": "11_phy_11",
+       "number": 11,
+       "name": "Thermodynamics",
+       "topics": [
+        "Zeroth first second laws",
+        "Isothermal adiabatic processes",
+        "Heat engine",
+        "Refrigerator",
+        "Carnot cycle",
+        "Entropy"
+       ],
+       "textRef": "11_physics/11",
+       "ncertPdf": "keph204",
+       "book": "Physics (Class 11)",
+       "bookChapter": 11
+      },
+      {
+       "id": "11_phy_12",
+       "number": 12,
+       "name": "Kinetic Theory",
+       "topics": [
+        "Kinetic theory of gases",
+        "RMS speed",
+        "Degrees of freedom",
+        "Law of equipartition",
+        "Mean free path"
+       ],
+       "textRef": "11_physics/12",
+       "ncertPdf": "keph205",
+       "book": "Physics (Class 11)",
+       "bookChapter": 12
+      },
+      {
+       "id": "11_phy_13",
+       "number": 13,
+       "name": "Oscillations",
+       "topics": [
+        "Simple harmonic motion",
+        "Energy in SHM",
+        "Simple pendulum",
+        "Damped oscillations",
+        "Resonance"
+       ],
+       "textRef": "11_physics/13",
+       "ncertPdf": "keph206",
+       "book": "Physics (Class 11)",
+       "bookChapter": 13
+      },
+      {
+       "id": "11_phy_14",
+       "number": 14,
+       "name": "Waves",
+       "topics": [
+        "Wave motion",
+        "Speed of transverse and longitudinal waves",
+        "Superposition",
+        "Standing waves",
+        "Beats",
+        "Doppler effect"
+       ],
+       "textRef": "11_physics/14",
+       "ncertPdf": "keph207",
+       "book": "Physics (Class 11)",
+       "bookChapter": 14
+      }
+     ]
+    },
+    {
+     "name": "Chemistry",
+     "chapters": [
+      {
+       "id": "11_che_1",
+       "number": 1,
+       "name": "Some Basic Concepts of Chemistry",
+       "topics": [
+        "Mole concept",
+        "Molarity molality",
+        "Stoichiometry",
+        "Limiting reagent",
+        "Percentage composition",
+        "Empirical formula"
+       ],
+       "textRef": "11_chemistry/1",
+       "ncertPdf": "kech101",
+       "book": "Chemistry (Class 11)",
+       "bookChapter": 1
+      },
+      {
+       "id": "11_che_2",
+       "number": 2,
+       "name": "Structure of Atom",
+       "topics": [
+        "Bohr model",
+        "Quantum numbers",
+        "Orbitals shapes",
+        "Aufbau Hund Pauli principles",
+        "Electronic configuration"
+       ],
+       "textRef": "11_chemistry/2",
+       "ncertPdf": "kech102",
+       "book": "Chemistry (Class 11)",
+       "bookChapter": 2
+      },
+      {
+       "id": "11_che_3",
+       "number": 3,
+       "name": "Classification of Elements and Periodicity in Properties",
+       "topics": [
+        "Genesis of periodic classification",
+        "Modern periodic law and the long form of the periodic table",
+        "Electronic configuration and s, p, d, f blocks",
+        "Atomic and ionic radii",
+        "Ionisation enthalpy",
+        "Electron gain enthalpy",
+        "Electronegativity",
+        "Periodic trends in chemical properties"
+       ],
+       "textRef": "11_chemistry/3",
+       "ncertPdf": "kech103",
+       "book": "Chemistry (Class 11)",
+       "bookChapter": 3
+      },
+      {
+       "id": "11_che_4",
+       "number": 4,
+       "name": "Chemical Bonding and Molecular Structure",
+       "topics": [
+        "Ionic and covalent bond",
+        "VSEPR theory",
+        "Hybridisation",
+        "Molecular orbital theory",
+        "Dipole moment",
+        "Hydrogen bond"
+       ],
+       "textRef": "11_chemistry/4",
+       "ncertPdf": "kech104",
+       "book": "Chemistry (Class 11)",
+       "bookChapter": 4
+      },
+      {
+       "id": "11_che_5",
+       "number": 5,
+       "name": "Thermodynamics",
+       "topics": [
+        "System and surroundings",
+        "First law enthalpy",
+        "Hess's law",
+        "Bond enthalpy",
+        "Entropy",
+        "Gibbs free energy",
+        "Spontaneity"
+       ],
+       "textRef": "11_chemistry/5",
+       "ncertPdf": "kech105",
+       "book": "Chemistry (Class 11)",
+       "bookChapter": 5
+      },
+      {
+       "id": "11_che_6",
+       "number": 6,
+       "name": "Equilibrium",
+       "topics": [
+        "Chemical equilibrium",
+        "Le Chatelier's principle",
+        "Kp Kc",
+        "Ionic equilibrium",
+        "pH buffer",
+        "Solubility product"
+       ],
+       "textRef": "11_chemistry/6",
+       "ncertPdf": "kech106",
+       "book": "Chemistry (Class 11)",
+       "bookChapter": 6
+      },
+      {
+       "id": "11_che_7",
+       "number": 7,
+       "name": "Redox Reactions",
+       "topics": [
+        "Oxidation number",
+        "Oxidising and reducing agents",
+        "Balancing redox equations",
+        "Electrochemical series"
+       ],
+       "textRef": "11_chemistry/7",
+       "ncertPdf": "kech201",
+       "book": "Chemistry (Class 11)",
+       "bookChapter": 7
+      },
+      {
+       "id": "11_che_8",
+       "number": 8,
+       "name": "Organic Chemistry – Some Basic Principles and Techniques",
+       "topics": [
+        "Tetravalence of carbon and shapes of organic compounds",
+        "Structural representations",
+        "IUPAC nomenclature",
+        "Isomerism",
+        "Inductive, resonance and electromeric effects",
+        "Hyperconjugation",
+        "Carbocations, carbanions and free radicals",
+        "Purification and qualitative analysis"
+       ],
+       "textRef": "11_chemistry/8",
+       "ncertPdf": "kech202",
+       "book": "Chemistry (Class 11)",
+       "bookChapter": 8
+      },
+      {
+       "id": "11_che_9",
+       "number": 9,
+       "name": "Hydrocarbons",
+       "topics": [
+        "Alkanes alkenes alkynes",
+        "Conformations of alkanes",
+        "Addition reactions",
+        "Aromaticity and benzene",
+        "Mechanism of reactions"
+       ],
+       "textRef": "11_chemistry/9",
+       "ncertPdf": "kech203",
+       "book": "Chemistry (Class 11)",
+       "bookChapter": 9
+      }
+     ]
+    },
+    {
+     "name": "Biology",
+     "chapters": [
+      {
+       "id": "11_bio_1",
+       "number": 1,
+       "name": "The Living World",
+       "topics": [
+        "Diversity of life",
+        "Taxonomic categories",
+        "Taxonomical aids",
+        "Nomenclature binomial system"
+       ],
+       "textRef": "11_biology/1",
+       "ncertPdf": "kebo101",
+       "book": "Biology (Class 11)",
+       "bookChapter": 1
+      },
+      {
+       "id": "11_bio_2",
+       "number": 2,
+       "name": "Biological Classification",
+       "topics": [
+        "Five kingdom classification",
+        "Monera Protista Fungi",
+        "Viruses viroids lichens",
+        "Kingdom characteristics"
+       ],
+       "textRef": "11_biology/2",
+       "ncertPdf": "kebo102",
+       "book": "Biology (Class 11)",
+       "bookChapter": 2
+      },
+      {
+       "id": "11_bio_3",
+       "number": 3,
+       "name": "Plant Kingdom",
+       "topics": [
+        "Algae bryophyta pteridophyta",
+        "Gymnosperms and angiosperms",
+        "Alternation of generations",
+        "Plant life cycles"
+       ],
+       "textRef": "11_biology/3",
+       "ncertPdf": "kebo103",
+       "book": "Biology (Class 11)",
+       "bookChapter": 3
+      },
+      {
+       "id": "11_bio_4",
+       "number": 4,
+       "name": "Animal Kingdom",
+       "topics": [
+        "Basis of classification",
+        "Non-chordata phyla",
+        "Chordata classes",
+        "Distinguishing features of each phylum"
+       ],
+       "textRef": "11_biology/4",
+       "ncertPdf": "kebo104",
+       "book": "Biology (Class 11)",
+       "bookChapter": 4
+      },
+      {
+       "id": "11_bio_5",
+       "number": 5,
+       "name": "Morphology of Flowering Plants",
+       "topics": [
+        "Root stem leaf modifications",
+        "Inflorescence types",
+        "Flower parts",
+        "Fruit and seed",
+        "Floral formula and diagram"
+       ],
+       "textRef": "11_biology/5",
+       "ncertPdf": "kebo105",
+       "book": "Biology (Class 11)",
+       "bookChapter": 5
+      },
+      {
+       "id": "11_bio_6",
+       "number": 6,
+       "name": "Anatomy of Flowering Plants",
+       "topics": [
+        "Meristematic and permanent tissues",
+        "Tissue systems",
+        "Anatomy of root stem leaf",
+        "Secondary growth"
+       ],
+       "textRef": "11_biology/6",
+       "ncertPdf": "kebo106",
+       "book": "Biology (Class 11)",
+       "bookChapter": 6
+      },
+      {
+       "id": "11_bio_7",
+       "number": 7,
+       "name": "Structural Organisation in Animals",
+       "topics": [
+        "Organ and Organ System",
+        "Frogs"
+       ],
+       "textRef": "11_biology/7",
+       "ncertPdf": "kebo107",
+       "book": "Biology (Class 11)",
+       "bookChapter": 7
+      },
+      {
+       "id": "11_bio_8",
+       "number": 8,
+       "name": "Cell: The Unit of Life",
+       "topics": [
+        "Prokaryotic and eukaryotic cell",
+        "Cell membrane fluid mosaic model",
+        "Cell organelles structure function",
+        "Nucleus"
+       ],
+       "textRef": "11_biology/8",
+       "ncertPdf": "kebo108",
+       "book": "Biology (Class 11)",
+       "bookChapter": 8
+      },
+      {
+       "id": "11_bio_9",
+       "number": 9,
+       "name": "Biomolecules",
+       "topics": [
+        "Carbohydrates lipids proteins nucleic acids",
+        "Enzymes structure and function",
+        "Enzyme inhibition",
+        "Cofactors"
+       ],
+       "textRef": "11_biology/9",
+       "ncertPdf": "kebo109",
+       "book": "Biology (Class 11)",
+       "bookChapter": 9
+      },
+      {
+       "id": "11_bio_10",
+       "number": 10,
+       "name": "Cell Cycle and Cell Division",
+       "topics": [
+        "Cell cycle phases",
+        "Mitosis stages",
+        "Meiosis stages",
+        "Significance of mitosis meiosis"
+       ],
+       "textRef": "11_biology/10",
+       "ncertPdf": "kebo110",
+       "book": "Biology (Class 11)",
+       "bookChapter": 10
+      },
+      {
+       "id": "11_bio_11",
+       "number": 11,
+       "name": "Photosynthesis in Higher Plants",
+       "topics": [
+        "Light reactions",
+        "Calvin cycle",
+        "Photorespiration",
+        "C3 C4 CAM plants",
+        "Factors affecting photosynthesis"
+       ],
+       "textRef": "11_biology/11",
+       "ncertPdf": "kebo111",
+       "book": "Biology (Class 11)",
+       "bookChapter": 11
+      },
+      {
+       "id": "11_bio_12",
+       "number": 12,
+       "name": "Respiration in Plants",
+       "topics": [
+        "Glycolysis",
+        "Krebs cycle",
+        "Electron transport chain",
+        "Anaerobic respiration",
+        "Respiratory quotient"
+       ],
+       "textRef": "11_biology/12",
+       "ncertPdf": "kebo112",
+       "book": "Biology (Class 11)",
+       "bookChapter": 12
+      },
+      {
+       "id": "11_bio_13",
+       "number": 13,
+       "name": "Plant Growth and Development",
+       "topics": [
+        "Plant growth regulators auxin gibberellin cytokinin",
+        "Ethylene abscisic acid",
+        "Photoperiodism",
+        "Vernalisation"
+       ],
+       "textRef": "11_biology/13",
+       "ncertPdf": "kebo113",
+       "book": "Biology (Class 11)",
+       "bookChapter": 13
+      },
+      {
+       "id": "11_bio_14",
+       "number": 14,
+       "name": "Breathing and Exchange of Gases",
+       "topics": [
+        "Respiratory organs",
+        "Breathing mechanism",
+        "Exchange of gases",
+        "Transport of O2 CO2",
+        "Respiratory disorders"
+       ],
+       "textRef": "11_biology/14",
+       "ncertPdf": "kebo114",
+       "book": "Biology (Class 11)",
+       "bookChapter": 14
+      },
+      {
+       "id": "11_bio_15",
+       "number": 15,
+       "name": "Body Fluids and Circulation",
+       "topics": [
+        "Blood composition",
+        "Blood groups ABO Rh",
+        "Coagulation",
+        "Heart structure cardiac cycle",
+        "ECG",
+        "Disorders"
+       ],
+       "textRef": "11_biology/15",
+       "ncertPdf": "kebo115",
+       "book": "Biology (Class 11)",
+       "bookChapter": 15
+      },
+      {
+       "id": "11_bio_16",
+       "number": 16,
+       "name": "Excretory Products and their Elimination",
+       "topics": [
+        "Excretory organs",
+        "Nephron structure",
+        "Urine formation",
+        "Regulation of kidney",
+        "Dialysis"
+       ],
+       "textRef": "11_biology/16",
+       "ncertPdf": "kebo116",
+       "book": "Biology (Class 11)",
+       "bookChapter": 16
+      },
+      {
+       "id": "11_bio_17",
+       "number": 17,
+       "name": "Locomotion and Movement",
+       "topics": [
+        "Types of movement",
+        "Skeletal muscle structure",
+        "Mechanism of muscle contraction",
+        "Skeleton types of joints",
+        "Disorders"
+       ],
+       "textRef": "11_biology/17",
+       "ncertPdf": "kebo117",
+       "book": "Biology (Class 11)",
+       "bookChapter": 17
+      },
+      {
+       "id": "11_bio_18",
+       "number": 18,
+       "name": "Neural Control and Coordination",
+       "topics": [
+        "Neuron structure",
+        "Nerve impulse",
+        "Synapse",
+        "CNS PNS structure",
+        "Reflex action",
+        "Sense organs"
+       ],
+       "textRef": "11_biology/18",
+       "ncertPdf": "kebo118",
+       "book": "Biology (Class 11)",
+       "bookChapter": 18
+      },
+      {
+       "id": "11_bio_19",
+       "number": 19,
+       "name": "Chemical Coordination and Integration",
+       "topics": [
+        "Endocrine glands hormones",
+        "Pituitary thyroid adrenal pancreas",
+        "Feedback regulation",
+        "Mechanism of hormone action"
+       ],
+       "textRef": "11_biology/19",
+       "ncertPdf": "kebo119",
+       "book": "Biology (Class 11)",
+       "bookChapter": 19
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "level": 12,
+   "label": "Class 12",
+   "stage": "NEET core",
+   "subjects": [
+    {
+     "name": "Physics",
+     "chapters": [
+      {
+       "id": "12_phy_1",
+       "number": 1,
+       "name": "Electric Charges and Fields",
+       "topics": [
+        "Coulomb's law",
+        "Electric field and field lines",
+        "Electric flux",
+        "Gauss's law",
+        "Electric dipole"
+       ],
+       "textRef": "12_physics/1",
+       "ncertPdf": "leph101",
+       "book": "Physics (Class 12)",
+       "bookChapter": 1
+      },
+      {
+       "id": "12_phy_2",
+       "number": 2,
+       "name": "Electrostatic Potential and Capacitance",
+       "topics": [
+        "Electric potential",
+        "Potential due to point charge and dipole",
+        "Equipotential surfaces",
+        "Capacitors",
+        "Energy stored",
+        "Dielectrics"
+       ],
+       "textRef": "12_physics/2",
+       "ncertPdf": "leph102",
+       "book": "Physics (Class 12)",
+       "bookChapter": 2
+      },
+      {
+       "id": "12_phy_3",
+       "number": 3,
+       "name": "Current Electricity",
+       "topics": [
+        "Ohm's law",
+        "Resistivity",
+        "Kirchhoff's laws",
+        "Wheatstone bridge",
+        "Potentiometer",
+        "EMF and internal resistance"
+       ],
+       "textRef": "12_physics/3",
+       "ncertPdf": "leph103",
+       "book": "Physics (Class 12)",
+       "bookChapter": 3
+      },
+      {
+       "id": "12_phy_4",
+       "number": 4,
+       "name": "Moving Charges and Magnetism",
+       "topics": [
+        "Biot-Savart law",
+        "Ampere's law",
+        "Force on current-carrying conductor",
+        "Galvanometer ammeter voltmeter",
+        "Cyclotron"
+       ],
+       "textRef": "12_physics/4",
+       "ncertPdf": "leph104",
+       "book": "Physics (Class 12)",
+       "bookChapter": 4
+      },
+      {
+       "id": "12_phy_5",
+       "number": 5,
+       "name": "Magnetism and Matter",
+       "topics": [
+        "Bar magnet",
+        "Earth's magnetism",
+        "Magnetic properties of materials",
+        "Diamagnetic paramagnetic ferromagnetic",
+        "Hysteresis"
+       ],
+       "textRef": "12_physics/5",
+       "ncertPdf": "leph105",
+       "book": "Physics (Class 12)",
+       "bookChapter": 5
+      },
+      {
+       "id": "12_phy_6",
+       "number": 6,
+       "name": "Electromagnetic Induction",
+       "topics": [
+        "Faraday's laws",
+        "Lenz's law",
+        "Motional EMF",
+        "Eddy currents",
+        "Self and mutual inductance"
+       ],
+       "textRef": "12_physics/6",
+       "ncertPdf": "leph106",
+       "book": "Physics (Class 12)",
+       "bookChapter": 6
+      },
+      {
+       "id": "12_phy_7",
+       "number": 7,
+       "name": "Alternating Current",
+       "topics": [
+        "AC generator",
+        "RMS values",
+        "LCR circuits",
+        "Resonance",
+        "Power factor",
+        "Transformer"
+       ],
+       "textRef": "12_physics/7",
+       "ncertPdf": "leph107",
+       "book": "Physics (Class 12)",
+       "bookChapter": 7
+      },
+      {
+       "id": "12_phy_8",
+       "number": 8,
+       "name": "Electromagnetic Waves",
+       "topics": [
+        "Displacement current",
+        "EM wave properties",
+        "EM spectrum",
+        "Uses of different EM waves"
+       ],
+       "textRef": "12_physics/8",
+       "ncertPdf": "leph108",
+       "book": "Physics (Class 12)",
+       "bookChapter": 8
+      },
+      {
+       "id": "12_phy_9",
+       "number": 9,
+       "name": "Ray Optics and Optical Instruments",
+       "topics": [
+        "Reflection refraction",
+        "Total internal reflection",
+        "Lenses and mirrors",
+        "Prism",
+        "Microscope telescope"
+       ],
+       "textRef": "12_physics/9",
+       "ncertPdf": "leph201",
+       "book": "Physics (Class 12)",
+       "bookChapter": 9
+      },
+      {
+       "id": "12_phy_10",
+       "number": 10,
+       "name": "Wave Optics",
+       "topics": [
+        "Wavefront Huygens principle",
+        "Interference Young's double slit",
+        "Diffraction",
+        "Polarisation"
+       ],
+       "textRef": "12_physics/10",
+       "ncertPdf": "leph202",
+       "book": "Physics (Class 12)",
+       "bookChapter": 10
+      },
+      {
+       "id": "12_phy_11",
+       "number": 11,
+       "name": "Dual Nature of Radiation and Matter",
+       "topics": [
+        "Photoelectric effect",
+        "Einstein's equation",
+        "de Broglie hypothesis",
+        "Davisson-Germer experiment"
+       ],
+       "textRef": "12_physics/11",
+       "ncertPdf": "leph203",
+       "book": "Physics (Class 12)",
+       "bookChapter": 11
+      },
+      {
+       "id": "12_phy_12",
+       "number": 12,
+       "name": "Atoms",
+       "topics": [
+        "Rutherford model",
+        "Bohr model",
+        "Hydrogen spectrum",
+        "Energy levels",
+        "Spectral series"
+       ],
+       "textRef": "12_physics/12",
+       "ncertPdf": "leph204",
+       "book": "Physics (Class 12)",
+       "bookChapter": 12
+      },
+      {
+       "id": "12_phy_13",
+       "number": 13,
+       "name": "Nuclei",
+       "topics": [
+        "Nuclear composition",
+        "Mass defect binding energy",
+        "Radioactivity",
+        "Nuclear fission fusion",
+        "Radioactive decay law"
+       ],
+       "textRef": "12_physics/13",
+       "ncertPdf": "leph205",
+       "book": "Physics (Class 12)",
+       "bookChapter": 13
+      },
+      {
+       "id": "12_phy_14",
+       "number": 14,
+       "name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+       "topics": [
+        "Classification of Metals, Conductors and Semiconductors",
+        "Intrinsic Semiconductor"
+       ],
+       "textRef": "12_physics/14",
+       "ncertPdf": "leph206",
+       "book": "Physics (Class 12)",
+       "bookChapter": 14
+      }
+     ]
+    },
+    {
+     "name": "Chemistry",
+     "chapters": [
+      {
+       "id": "12_che_1",
+       "number": 1,
+       "name": "Solutions",
+       "topics": [
+        "Types of solutions",
+        "Colligative properties",
+        "Raoult's law",
+        "Elevation boiling point depression freezing point",
+        "Osmotic pressure",
+        "Van't Hoff factor"
+       ],
+       "textRef": "12_chemistry/1",
+       "ncertPdf": "lech101",
+       "book": "Chemistry (Class 12)",
+       "bookChapter": 1
+      },
+      {
+       "id": "12_che_2",
+       "number": 2,
+       "name": "Electrochemistry",
+       "topics": [
+        "Electrochemical cells",
+        "Nernst equation",
+        "Conductance",
+        "Kohlrausch law",
+        "Faraday's laws of electrolysis",
+        "Corrosion batteries"
+       ],
+       "textRef": "12_chemistry/2",
+       "ncertPdf": "lech102",
+       "book": "Chemistry (Class 12)",
+       "bookChapter": 2
+      },
+      {
+       "id": "12_che_3",
+       "number": 3,
+       "name": "Chemical Kinetics",
+       "topics": [
+        "Rate of reaction",
+        "Rate law and rate constant",
+        "Order and molecularity",
+        "Activation energy",
+        "Arrhenius equation",
+        "Catalysis"
+       ],
+       "textRef": "12_chemistry/3",
+       "ncertPdf": "lech103",
+       "book": "Chemistry (Class 12)",
+       "bookChapter": 3
+      },
+      {
+       "id": "12_che_4",
+       "number": 4,
+       "name": "The d- and f-Block Elements",
+       "topics": [
+        "Transition metals properties",
+        "Variable oxidation states",
+        "Colour and catalytic properties",
+        "Lanthanides actinides",
+        "Important compounds KMnO4 K2Cr2O7"
+       ],
+       "textRef": "12_chemistry/4",
+       "ncertPdf": "lech104",
+       "book": "Chemistry (Class 12)",
+       "bookChapter": 4
+      },
+      {
+       "id": "12_che_5",
+       "number": 5,
+       "name": "Coordination Compounds",
+       "topics": [
+        "Ligands and coordination number",
+        "Nomenclature",
+        "Isomerism",
+        "Bonding VBT CFT",
+        "Stability and applications"
+       ],
+       "textRef": "12_chemistry/5",
+       "ncertPdf": "lech105",
+       "book": "Chemistry (Class 12)",
+       "bookChapter": 5
+      },
+      {
+       "id": "12_che_6",
+       "number": 6,
+       "name": "Haloalkanes and Haloarenes",
+       "topics": [
+        "Classification and nomenclature",
+        "Preparation methods",
+        "SN1 SN2 reactions",
+        "Elimination reactions",
+        "Optical isomerism"
+       ],
+       "textRef": "12_chemistry/6",
+       "ncertPdf": "lech201",
+       "book": "Chemistry (Class 12)",
+       "bookChapter": 6
+      },
+      {
+       "id": "12_che_7",
+       "number": 7,
+       "name": "Alcohols, Phenols and Ethers",
+       "topics": [
+        "Classification nomenclature",
+        "Preparation and properties",
+        "Chemical reactions",
+        "Acidic nature of phenols",
+        "Ether reactions"
+       ],
+       "textRef": "12_chemistry/7",
+       "ncertPdf": "lech202",
+       "book": "Chemistry (Class 12)",
+       "bookChapter": 7
+      },
+      {
+       "id": "12_che_8",
+       "number": 8,
+       "name": "Aldehydes, Ketones and Carboxylic Acids",
+       "topics": [
+        "Nomenclature and preparation",
+        "Nucleophilic addition",
+        "Aldol condensation",
+        "Carboxylic acid reactions",
+        "Acidity"
+       ],
+       "textRef": "12_chemistry/8",
+       "ncertPdf": "lech203",
+       "book": "Chemistry (Class 12)",
+       "bookChapter": 8
+      },
+      {
+       "id": "12_che_9",
+       "number": 9,
+       "name": "Amines",
+       "topics": [
+        "Classification and nomenclature",
+        "Preparation methods",
+        "Basic character",
+        "Diazonium salts",
+        "Coupling reactions"
+       ],
+       "textRef": "12_chemistry/9",
+       "ncertPdf": "lech204",
+       "book": "Chemistry (Class 12)",
+       "bookChapter": 9
+      },
+      {
+       "id": "12_che_10",
+       "number": 10,
+       "name": "Biomolecules",
+       "topics": [
+        "Carbohydrates: monosaccharides polysaccharides",
+        "Proteins: amino acids peptide bond",
+        "Enzymes",
+        "Nucleic acids DNA RNA",
+        "Vitamins hormones"
+       ],
+       "textRef": "12_chemistry/10",
+       "ncertPdf": "lech205",
+       "book": "Chemistry (Class 12)",
+       "bookChapter": 10
+      }
+     ]
+    },
+    {
+     "name": "Biology",
+     "chapters": [
+      {
+       "id": "12_bio_1",
+       "number": 1,
+       "name": "Sexual Reproduction in Flowering Plants",
+       "topics": [
+        "Flower structure",
+        "Microsporogenesis",
+        "Megasporogenesis",
+        "Pollination",
+        "Fertilisation double fertilisation",
+        "Endosperm seed"
+       ],
+       "textRef": "12_biology/1",
+       "ncertPdf": "lebo101",
+       "book": "Biology (Class 12)",
+       "bookChapter": 1
+      },
+      {
+       "id": "12_bio_2",
+       "number": 2,
+       "name": "Human Reproduction",
+       "topics": [
+        "Male reproductive system",
+        "Female reproductive system",
+        "Gametogenesis spermatogenesis oogenesis",
+        "Menstrual cycle",
+        "Fertilisation implantation",
+        "Embryo development"
+       ],
+       "textRef": "12_biology/2",
+       "ncertPdf": "lebo102",
+       "book": "Biology (Class 12)",
+       "bookChapter": 2
+      },
+      {
+       "id": "12_bio_3",
+       "number": 3,
+       "name": "Reproductive Health",
+       "topics": [
+        "Population explosion",
+        "Contraceptive methods",
+        "STDs",
+        "Infertility and ART",
+        "Amniocentesis"
+       ],
+       "textRef": "12_biology/3",
+       "ncertPdf": "lebo103",
+       "book": "Biology (Class 12)",
+       "bookChapter": 3
+      },
+      {
+       "id": "12_bio_4",
+       "number": 4,
+       "name": "Principles of Inheritance and Variation",
+       "topics": [
+        "Mendel's laws",
+        "Inheritance of two genes",
+        "Chromosomal theory",
+        "Linkage and crossing over",
+        "Sex determination",
+        "Mutation"
+       ],
+       "textRef": "12_biology/4",
+       "ncertPdf": "lebo104",
+       "book": "Biology (Class 12)",
+       "bookChapter": 4
+      },
+      {
+       "id": "12_bio_5",
+       "number": 5,
+       "name": "Molecular Basis of Inheritance",
+       "topics": [
+        "DNA structure",
+        "DNA replication",
+        "Transcription translation",
+        "Genetic code",
+        "Regulation of gene expression",
+        "Human genome project"
+       ],
+       "textRef": "12_biology/5",
+       "ncertPdf": "lebo105",
+       "book": "Biology (Class 12)",
+       "bookChapter": 5
+      },
+      {
+       "id": "12_bio_6",
+       "number": 6,
+       "name": "Evolution",
+       "topics": [
+        "Origin of life",
+        "Theories of evolution",
+        "Darwinism natural selection",
+        "Hardy-Weinberg principle",
+        "Evidence for evolution",
+        "Human evolution"
+       ],
+       "textRef": "12_biology/6",
+       "ncertPdf": "lebo106",
+       "book": "Biology (Class 12)",
+       "bookChapter": 6
+      },
+      {
+       "id": "12_bio_7",
+       "number": 7,
+       "name": "Human Health and Disease",
+       "topics": [
+        "Innate and acquired immunity",
+        "Vaccination",
+        "AIDS cancer drugs alcohol",
+        "Common diseases malaria typhoid",
+        "Immune system"
+       ],
+       "textRef": "12_biology/7",
+       "ncertPdf": "lebo107",
+       "book": "Biology (Class 12)",
+       "bookChapter": 7
+      },
+      {
+       "id": "12_bio_8",
+       "number": 8,
+       "name": "Microbes in Human Welfare",
+       "topics": [
+        "Microbes in household food industry",
+        "Sewage treatment",
+        "Biogas production",
+        "Biocontrol agents",
+        "Biofertilisers"
+       ],
+       "textRef": "12_biology/8",
+       "ncertPdf": "lebo108",
+       "book": "Biology (Class 12)",
+       "bookChapter": 8
+      },
+      {
+       "id": "12_bio_9",
+       "number": 9,
+       "name": "Biotechnology: Principles and Processes",
+       "topics": [
+        "Recombinant DNA technology",
+        "Restriction enzymes",
+        "PCR",
+        "Gel electrophoresis",
+        "Cloning vectors",
+        "Bioreactors"
+       ],
+       "textRef": "12_biology/9",
+       "ncertPdf": "lebo109",
+       "book": "Biology (Class 12)",
+       "bookChapter": 9
+      },
+      {
+       "id": "12_bio_10",
+       "number": 10,
+       "name": "Biotechnology and its Applications",
+       "topics": [
+        "GM organisms",
+        "Bt crops",
+        "RNA interference",
+        "Gene therapy",
+        "Molecular diagnosis ELISA PCR",
+        "Bioethics patents"
+       ],
+       "textRef": "12_biology/10",
+       "ncertPdf": "lebo110",
+       "book": "Biology (Class 12)",
+       "bookChapter": 10
+      },
+      {
+       "id": "12_bio_11",
+       "number": 11,
+       "name": "Organisms and Populations",
+       "topics": [
+        "Organism and its environment",
+        "Population attributes",
+        "Population growth models",
+        "Population interactions mutualism competition predation"
+       ],
+       "textRef": "12_biology/11",
+       "ncertPdf": "lebo111",
+       "book": "Biology (Class 12)",
+       "bookChapter": 11
+      },
+      {
+       "id": "12_bio_12",
+       "number": 12,
+       "name": "Ecosystem",
+       "topics": [
+        "Components of ecosystem",
+        "Productivity",
+        "Decomposition",
+        "Energy flow food chain",
+        "Ecological pyramids",
+        "Nutrient cycling"
+       ],
+       "textRef": "12_biology/12",
+       "ncertPdf": "lebo112",
+       "book": "Biology (Class 12)",
+       "bookChapter": 12
+      },
+      {
+       "id": "12_bio_13",
+       "number": 13,
+       "name": "Biodiversity and Conservation",
+       "topics": [
+        "Types of biodiversity",
+        "Biodiversity hotspots",
+        "Loss of biodiversity",
+        "In-situ ex-situ conservation",
+        "IUCN categories"
+       ],
+       "textRef": "12_biology/13",
+       "ncertPdf": "lebo113",
+       "book": "Biology (Class 12)",
+       "bookChapter": 13
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
