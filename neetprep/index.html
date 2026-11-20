@@ -14,7 +14,7 @@
 </head>
 <body>
 <h1>NEET Prep AI – Privacy Policy</h1>
-<p class="muted">Effective date: 1 November 2026</p>
+<p class="muted">Effective date: 1 November 2026 · Last updated: 20 November 2026</p>
 
 <p>NEET Prep AI ("the app") is an Android app developed by Aniruddha, an individual developer. It helps students prepare for
 the NEET (UG) exam with NCERT chapters, AI-written study guides and practice tests, an AI tutor, progress tracking, exam
@@ -24,14 +24,16 @@ reminders and study breaks. This policy explains what information the app handle
 <ul>
   <li>No account, no sign-in, no ads, no analytics and no crash-reporting SDKs.</li>
   <li>Your name, class, exam date, progress and settings stay on your phone.</li>
-  <li>When you use an AI feature, the text of your request is sent to the AI service <strong>you</strong> chose, using your own API key.</li>
+  <li>When you use an AI feature, your request (text, and any photo or PDF you attach in the AI Tutor) is sent to the AI service <strong>you</strong> chose, using your own API key.</li>
   <li>The developer has no server and never receives your data, except a report you choose to send.</li>
 </ul>
 
 <h2>Information stored on your phone</h2>
 <ul>
   <li><strong>Profile:</strong> the first name and class you enter, your NEET exam date and start time, and your reminder and break settings.</li>
-  <li><strong>Study data:</strong> test results, bookmarks, studied chapters, streaks and saved AI study guides.</li>
+  <li><strong>Study data:</strong> test results, bookmarks, studied chapters, streaks, badges and saved AI study guides.</li>
+  <li><strong>AI Tutor chats:</strong> the text of your recent tutor chats, so you can reopen them. Photos and PDFs you
+    attached are not kept in saved chats; only their file names are.</li>
   <li><strong>Your AI key:</strong> the API key you paste in is encrypted with the Android Keystore and stored only on this phone.
     It is excluded from backups and is never sent to the developer.</li>
   <li><strong>NCERT books:</strong> chapter PDFs you download from ncert.nic.in are kept on the phone for offline reading.</li>
@@ -44,7 +46,9 @@ account. Your AI key and downloaded books are excluded. Backup is controlled by 
 Gemini, Groq, OpenAI (ChatGPT), Anthropic (Claude), OpenRouter, or another OpenAI-compatible service you enter. When you
 use these features, the app sends that service:</p>
 <ul>
-  <li>your request (for example a chapter name, the topics for a test, a passage you asked to have explained, or your tutor question and the conversation so far), and</li>
+  <li>your request (for example a chapter name, the topics for a test, a passage you asked to have explained, or your tutor question and the conversation so far),</li>
+  <li>any <strong>photo or PDF you attach</strong> in the AI Tutor (for example a picture of a question or a question paper): photos are made smaller
+    before sending, a PDF's text is sent, and for scanned PDFs the first few pages are sent as pictures, and</li>
   <li>your API key, so the service knows the request is yours.</li>
 </ul>
 <p>Requests go directly from your phone to that service over an encrypted (HTTPS) connection. The developer does not see
@@ -54,12 +58,19 @@ them. The service handles them under its own privacy policy and terms, which you
 <a href="https://openai.com/policies/privacy-policy/">OpenAI</a>,
 <a href="https://www.anthropic.com/legal/privacy">Anthropic</a>,
 <a href="https://openrouter.ai/privacy">OpenRouter</a>.
-Please don't type personal information such as your phone number or address into the AI tutor.</p>
+Please don't type or photograph personal information such as your phone number, address or ID cards in the AI tutor.</p>
+
+<h2>Camera, photos and files</h2>
+<p>The app uses your camera, photos or files <strong>only when you choose</strong> to attach something in the AI Tutor. It uses
+Android's own camera app and file pickers, so it only sees the photo or file you pick. The app does not ask for camera or
+storage permission. A photo you take is kept briefly in the app's private cache to send it, then deleted.</p>
 
 <h2>Other connections</h2>
 <ul>
-  <li><strong>NCERT:</strong> chapter books are downloaded from <a href="https://ncert.nic.in">ncert.nic.in</a>, and the app checks it for revised chapters.</li>
-  <li><strong>Syllabus updates:</strong> the app may download an updated syllabus list from this website (GitHub Pages). No information about you is sent.</li>
+  <li><strong>NCERT:</strong> chapter books are downloaded from <a href="https://ncert.nic.in">ncert.nic.in</a> when you open them, and
+    the app checks it for revised chapters only when you tap <em>Sync now</em>.</li>
+  <li><strong>Google Play:</strong> after a good test result, the app may show Google Play's own rating card once. Ratings and reviews
+    are handled by Google Play under Google's privacy policy; the app does not see them.</li>
 </ul>
 <p>These are ordinary web requests. Like any website, those servers can see your phone's IP address.</p>
 
@@ -68,6 +79,8 @@ Please don't type personal information such as your phone number or address into
 details you type, where in the app it happened, the app version, and the AI text you are reporting. It goes to the developer
 by email or an online form and is used only to fix problems and improve safety. Reports do not include your name, your key
 or your progress.</p>
+<p>If you use <strong>Send feedback</strong> in Settings, your phone's email app opens with your message; nothing is sent unless
+you send that email yourself.</p>
 
 <h2>Notifications</h2>
 <p>With your permission, the app shows exam countdown reminders and study-break alarms. They are created on your phone;
@@ -78,6 +91,7 @@ no information is sent anywhere to schedule them.</p>
 <ul>
   <li><strong>Test results, bookmarks, streaks and studied chapters:</strong> open <em>Settings → Reset all progress</em>.
     They are deleted at once.</li>
+  <li><strong>AI Tutor chats:</strong> open the chat history (🕘) in the AI Tutor and delete any chat.</li>
   <li><strong>Downloaded NCERT books:</strong> <em>Settings → Storage → Delete books</em>.
     <strong>Saved AI study guides:</strong> <em>Settings → Storage → Clear AI guides</em>.</li>
   <li><strong>Everything at once</strong>, including your name, class, exam date and AI key: uninstall the app, or clear
